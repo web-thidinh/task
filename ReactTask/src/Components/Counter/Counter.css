@@ -1,0 +1,11 @@
+.counter-page{
+    margin-top:200px;
+    text-align: center;
+}
+.counter-value{
+    margin-bottom: 30px;
+    font-size: 30px
+}
+button{
+    padding:5px 10px;
+}
